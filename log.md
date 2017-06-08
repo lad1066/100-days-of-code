@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 3: June 07, 2017
+
+**Today's Progress**: Worked on my Portfolio page for FCC.  Figured out how to do the basics of a horizontal navigation bar - go me!
+
+**Thoughts:** I only did 30 minutes today because of Pub Quiz but I'll add that on sometime this week, likely Sunday.  I'm glad I decided to do a little since I learned something new.  The box model is still confusing so I need to find some articles and really understand it.
+
+**Link:** https://codepen.io/lad1066/pen/WOvzqW (Code Pen of my Tribute Page)
+
 ### Day 2: June 06, 2017
 
 **Today's Progress**: Worked on my Portfolio page for FCC.  Got all the base html in there and started on the css.  Got stumped by background-color so I'll research tomorrow.
