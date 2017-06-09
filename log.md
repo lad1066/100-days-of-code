@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 4: June 08, 2017
+
+**Today's Progress**: Worked on my Portfolio page for FCC.  Figured out how to seperate my sections using divs but there's one that's giving me trouble so I'm going to work on that tomorrow.
+
+**Thoughts:** I worked for 85 minutes but was distracted throughout so it really should only count as an hour. No baseball tonight so I made the mistake of putting on AGT and it was a bridge too far. I'll have to figure something else out for the nights when the Rangers aren't playing. Learning CSS is a slow process and I do find myself getting frustrated, but it's pretty cool when I work something out.
+
+**Link:** https://codepen.io/lad1066/pen/WOvzqW (Code Pen of my Tribute Page)
+
 ### Day 3: June 07, 2017
 
 **Today's Progress**: Worked on my Portfolio page for FCC.  Figured out how to do the basics of a horizontal navigation bar - go me!
