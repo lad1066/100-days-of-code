@@ -2,6 +2,14 @@
 
 ### Day 4: June 08, 2017
 
+**Today's Progress**: Went back to the udemy course I had started and coded along with the Bootstrap lesson. I really needed this BEFORE I started my Portfolio Page. Three days of frustration could have been avoided!! But I think I'll be able to make real progress as I go through the lesson. Today I just coded along with the examples. Tomorrow I'm going to start putting it in to practice as well as continuing the lessons
+
+**Thoughts:** I only vaguely remember the Bootstrap lessons from freeCodeCamp and boy do I wish I'd recalled them before now. I was frustrated and didn't want to work on my Portfolio Page so I restarted the online course I'm doing. The lesson was Bootstrap and IT EXPLAINED SO MUCH!! Now I'm kicking myself but I'm excited to move forward.
+
+**Link:** Just a tweet about my progress since I was coding along with the course: https://twitter.com/LauraDinTX/status/873410014584680448
+
+### Day 4: June 08, 2017
+
 **Today's Progress**: Worked on my Portfolio page for FCC.  Figured out how to seperate my sections using divs but there's one that's giving me trouble so I'm going to work on that tomorrow.
 
 **Thoughts:** I worked for 85 minutes but was distracted throughout so it really should only count as an hour. No baseball tonight so I made the mistake of putting on AGT and it was a bridge too far. I'll have to figure something else out for the nights when the Rangers aren't playing. Learning CSS is a slow process and I do find myself getting frustrated, but it's pretty cool when I work something out.
