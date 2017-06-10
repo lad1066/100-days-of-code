@@ -11,7 +11,7 @@ June 25th, 2016. [PUT YOUR DATE HERE]
 2. If I code at work, that time won't count towards the challenge.
 3. I will push code to GitHub every day so that anyone can see my progress.
 4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
-5. *Change* Because I know myself and my learning style, I will count time spent in tutorials and online courses for this challenge but only if I complete a project on that day.
+5. *Change* Because I know myself and my learning style, I will count time spent in tutorials and online courses for this challenge but only if I am coding along and/or working on a project as well.
 
 
 ## Ideas to make this challenge more effective
