@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 4: June 08, 2017
+### Day 5: June 09, 2017
 
 **Today's Progress**: Went back to the udemy course I had started and coded along with the Bootstrap lesson. I really needed this BEFORE I started my Portfolio Page. Three days of frustration could have been avoided!! But I think I'll be able to make real progress as I go through the lesson. Today I just coded along with the examples. Tomorrow I'm going to start putting it in to practice as well as continuing the lessons
 
