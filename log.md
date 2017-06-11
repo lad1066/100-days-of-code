@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 6: June 10, 2017
+
+**Today's Progress**: Ugh. Just ugh. I really thought I had a handle on using Bootstrap to create a navbar but I couldn't get anything to work in Code Pen.  So frustrated!
+
+**Thoughts:** There has got to be something wrong with my version of Code Pen or something. I even copied code directly from a code pen with a working navbar and it didn't work.  I couldn't figure it out tonight but I'll try again tomorrow.
+
+**Link:** Navbar that didn't work: https://codepen.io/lad1066/pen/bRpwjQ
+
 ### Day 5: June 09, 2017
 
 **Today's Progress**: Went back to the udemy course I had started and coded along with the Bootstrap lesson. I really needed this BEFORE I started my Portfolio Page. Three days of frustration could have been avoided!! But I think I'll be able to make real progress as I go through the lesson. Today I just coded along with the examples. Tomorrow I'm going to start putting it in to practice as well as continuing the lessons
