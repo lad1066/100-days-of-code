@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 10: June 14, 2017
+
+**Today's Progress**: Finished up the landing page code along and started back on my portfolio page. I'm excited to put what I've learned in to practice.
+
+**Thoughts:** I really think I can get the portfolio page done this weekend and move on to javascript.  I feel like I'm really starting to understand how html and css work.
+
+**Link:** Back to the portfolio page: https://codepen.io/lad1066/pen/WOvzqW
+
+### Day 7-9: June 11-13, 2017
+
+**Today's Progress**: I'm so bad at updating multiple things. I've also been blogging so I forget to come over here and update. Blog link here: https://theadiposealternative.wordpress.com/
+
+**Thoughts:** On Day 7 I figured out my problem was the bootstrap cdn link in codepen and I had, in fact, done everything correctly.  I decided to spend the next couple of days coding along with the bootstrap lessons and learned a TON! 
+
+**Link:** Landing Page Code Along: https://codepen.io/lad1066/pen/EXKRBE
+
 ### Day 6: June 10, 2017
 
 **Today's Progress**: Ugh. Just ugh. I really thought I had a handle on using Bootstrap to create a navbar but I couldn't get anything to work in Code Pen.  So frustrated!
